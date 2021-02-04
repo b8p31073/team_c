@@ -1,3 +1,14 @@
-名前　oracle64
-Linux　Oracle64bit
-Linuxのことよく知らないしデフォルトでこれだったので
+Ubuntu Desktop 20.04.1 LTS
+お互いよくわからないので流れでUbuntuへ
+長期サポートされていてダウンロードボタンが緑色で目立っていたので
+
+Ubuntuは初心者に優しいLinuxディストリビューション
+
+↓このサイトを参考にubuntu起動
+https://qiita.com/HirMtsd/items/225c20b77a7cd5194834
+
+
+
+https://qiita.com/sakkuntyo/items/03742bad0f57a4f46b07
+https://loumo.jp/archives/24399
+https://qiita.com/cherubim1111/items/b259493a39e36f5d524b
