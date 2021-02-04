@@ -1,0 +1,3 @@
+名前　oracle64
+Linux　Oracle64bit
+Linuxのことよく知らないしデフォルトでこれだったので
