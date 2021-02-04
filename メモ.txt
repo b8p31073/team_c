@@ -4,11 +4,19 @@ Ubuntu Desktop 20.04.1 LTS
 
 Ubuntuは初心者に優しいLinuxディストリビューション
 
-↓このサイトを参考にubuntu起動
+↓このサイトを参考にubuntu起動、ソフトウェア更新
 https://qiita.com/HirMtsd/items/225c20b77a7cd5194834
 
+↓Apacheのインストール、起動
+https://qiita.com/cherubim1111/items/b259493a39e36f5d524b
+色々やるにはアプリケーションから端末を起動してsudo suのコマンドをやったらできた
+curlが見つからないと言われたのでインストール
+ブラウザでlocalhostと打ち込んだらapacheのページが出た
 
-
-https://qiita.com/sakkuntyo/items/03742bad0f57a4f46b07
+↓PHP、mysqlのインストール
 https://loumo.jp/archives/24399
+（https://itexpert.tips/ja/wordpress-ja/ubuntu-linux%E3%81%ABwordpress%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/
+ワードプレスのためのデータベース設定？)
+
+↓ワードプレスのインストール
 https://qiita.com/cherubim1111/items/b259493a39e36f5d524b
