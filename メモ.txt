@@ -28,4 +28,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-s
 ↓詰まったのでこっちも見る
 https://ygkb.jp/3885
 mysqlの設定など
-ワードプレスのインストールがかなり遅い
+ワードプレスのインストールがかなり遅い→直接URLに飛びダウンロード
