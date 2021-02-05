@@ -20,3 +20,12 @@ https://loumo.jp/archives/24399
 
 ↓ワードプレスのインストール
 https://qiita.com/cherubim1111/items/b259493a39e36f5d524b
+
+apacheからもう一度見直してみる
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-ja
+このページを見ながらもう一回やったらちゃんとIPアドレスが出てページも見れた
+ファイアウォールの調整かWebサーバーの確認のみ
+↓詰まったのでこっちも見る
+https://ygkb.jp/3885
+mysqlの設定など
+ワードプレスのインストールがかなり遅い
